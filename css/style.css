@@ -1,0 +1,27 @@
+
+.header, .hero, .body, .bar, .footer, .begin{
+	background-color: lime;
+	margin-bottom: 5px;}
+
+.box{height: 80px;
+	margin-bottom: 5px;
+	background-color:teal;
+	font-size: 30px;
+	color:white;
+	text-align: center;
+	padding-top: 12px;
+
+}
+
+.red{background-color: red}
+
+.intro{background-color: tomato;
+	font-size: 40px;
+	color:white;
+	text-align: center;
+border:3px solid navy;
+border-radius: 5px;
+width:55%;
+margin: 0 auto;
+padding-bottom: 6px;
+}
